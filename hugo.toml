@@ -1,0 +1,4 @@
+baseURL = 'https://wu237972.github.io/QAX_BLOG/'
+locale = 'en-us'
+title = 'QAX的博客'
+theme="PaperMod"
